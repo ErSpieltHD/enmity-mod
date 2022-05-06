@@ -2,7 +2,7 @@
 	"name": "HotDogStand",
 	"author": "ErSpieltʜᴅ#8080",
 		"theme_color_map": {
-			"KEYBOARD": ["#FFFF00", "#1D2A3B"],
+			"KEYBOARD": ["#FF0000", "#1D2A3B"],
 			"BACKGROUND_PRIMARY": ["#FFFF00", "#1D2A3B"],
 			"BACKGROUND_SECONDARY": ["#FF0000", "#2B3B4E"],
 			"BACKGROUND_SECONDARY_ALT": ["#FF0000", "#161C2F"],
@@ -10,6 +10,7 @@
 			"BACKGROUND_ACCENT": ["#FF0000", "#4C566A"],
 			"BACKGROUND_FLOATING": ["#FF0000", "#202A3A"],
 			"BACKGROUND_MENTIONED": ["#0978B8", "#9CDFFF"],
+			"^BACKGROUND_MENTIONED(_HOVER)?$": ["#0978B8", "#9CDFFF"],
 			"BACKGROUND_MOBILE_PRIMARY": ["#FF0000", "#1D2A3B"],
 			"BACKGROUND_MOBILE_SECONDARY": ["#FF0000", "#2C394A"],
 			"BACKGROUND_MODIFIER_HOVER": ["#FF0000", "#4C566A"],
@@ -28,7 +29,7 @@
 			"HEADER_SECONDARY": ["#000000", "#B9BBBE"]
 		},
 		"colours": {
-			"PRIMARY_DARK":  "#FFFF00",
+			"PRIMARY_DARK":  "#000000",
 			"PRIMARY_DARK_100": "#000000",
 			"PRIMARY_DARK_200": "#000000",
 			"PRIMARY_DARK_300": "#000000",
@@ -42,6 +43,6 @@
 			"PRIMARY_DARK_900": "#000000"
 		},
 		"unsafe_colors": {
-			"CHAT_GREY": "#FFFF00"
+			"CHAT_GREY": "#FF0000"
 		}
 }
