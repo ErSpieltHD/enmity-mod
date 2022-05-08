@@ -36,7 +36,8 @@
 			"HEADER_SECONDARY": ["#000000", "#B9BBBE"]
 		},
 		"colours": {
-			"WHITE": "#F5F5F5",
+"BLACK": "#F5F5F5",			
+"WHITE": "#F5F5F5",
 			"PRIMARY_DARK":  "#FF0000",
 			"PRIMARY_DARK_100": "#000000",
 			"PRIMARY_DARK_200": "#000000",
