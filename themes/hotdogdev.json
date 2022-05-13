@@ -1,1 +1,41 @@
-
+{
+	"name": "hotdogdev",
+	"description": "A Tribute to the Windows 3.1 Hot Dog Stand Color Scheme",
+	"version": "1",
+	"color": "#FF0000",
+	"authors": [
+		{
+			"name": "ErSpieltHD.ml",
+			"id": "794259607206887425"
+		}
+	],
+	"theme_color_map": {
+		"KEYBOARD": ["#FF0000", "#FF0000"],
+		"BACKGROUND_PRIMARY": ["#FFFF00", "#FFFF00"],
+		"BACKGROUND_SECONDARY": ["#FF0000", "#FF0000"],
+		"BACKGROUND_SECONDARY_ALT": ["#FF0000", "#FF0000"],
+		"BACKGROUND_TERTIARY": ["#FF0000", "#FF0000"],
+		"BACKGROUND_ACCENT": ["#FF0000", "#FF0000"],
+		"BACKGROUND_FLOATING": ["#FF0000", "#FF0000"],
+		"BACKGROUND_MENTIONED": ["#FF0000", "#FF0000"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#FF0000", "#FF0000"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#FF0000", "#FF0000"],
+		"BACKGROUND_MODIFIER_HOVER": ["#FF0000", "#FF0000"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#FF0000", "#FF0000"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#FF0000", "#FF0000"],
+		"BACKGROUND_NESTED_FLOATING": ["#FF0000", "#FF0000"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#FF0000", "#FF0000"],
+		"TEXTBOX_MARKDOWN_SYNTAX": ["#FF0000", "#FF0000"],
+		},
+		"colours": {
+			"PRIMARY_DARK":  "#FF0000",
+			"PRIMARY_DARK_100": "#FFFF00",
+			"PRIMARY_DARK_600": "#FF0000",
+			"PRIMARY_DARK_630": "#FF0000",
+			"PRIMARY_DARK_700": "#FF0000",
+			"PRIMARY_DARK_800": "#FFFF00",
+		},
+		"unsafe_colors": {
+			"CHAT_GREY": "#FF0000"
+		}
+}
