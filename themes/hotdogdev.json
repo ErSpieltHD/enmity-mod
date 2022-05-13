@@ -21,12 +21,23 @@
         "BACKGROUND_MODIFIER_ACCENT": ["#FF0000", "#FF0000"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#FF0000", "#FF0000"],
         "BACKGROUND_MODIFIER_SELECTED": ["#FF0000", "#FF0000"],
+        "CHANNELS_DEFAULT": ["#000000", "#000000"],
+        "HEADER_PRIMARY": ["#000000", "#000000"],
+        "HEADER_SECONDARY": ["#000000", "#000000"],
+        "INTERACTIVE_ACTIVE": ["#000000", "#000000"],
         "INTERACTIVE_MUTED": ["#FF0000", "#FF0000"],
-        "TEXT_LINK": ["#FF0000", "#FF0000"]
+        "INTERACTIVE_NORMAL": ["#000000", "#000000"],
+        "TEXT_LINK": ["#FF0000", "#FF0000"],
+        "TEXT_MUTED": ["#000000", "#000000"],
+        "TEXT_NORMAL": ["#000000", "#000000"]
     },
     "colours": {
         "PRIMARY_DARK": "#FF0000",
         "PRIMARY_DARK_100": "#FFFF00",
+        "PRIMARY_DARK_300": "#000000",
+        "PRIMARY_DARK_360": "#000000",
+        "PRIMARY_DARK_400": "#000000",
+        "PRIMARY_DARK_500": "#000000",
         "PRIMARY_DARK_600": "#FF0000",
         "PRIMARY_DARK_630": "#FF0000",
         "PRIMARY_DARK_700": "#FF0000",
@@ -35,6 +46,6 @@
         "WHITE": "#FF0000"
     },
     "unsafe_colors": {
-        "CHAT_GREY": "#FF0000"
+        "CHAT_GREY": "#FFFF00"
     }
 }
