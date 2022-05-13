@@ -2,39 +2,39 @@
     "name": "hotdogdev",
     "description": "A Tribute to the Windows 3.1 Hot Dog Stand Color Scheme",
     "version": "1",
-    "color": "#FF0000",
+    "color": "#D2691E",
     "authors": [{
         "name": "ErSpieltHD.ml",
         "id": "794259607206887425"
     }],
     "theme_color_map": {
-        "KEYBOARD": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_PRIMARY": ["#FF0000", "#FF0000"],
-        "BACKGROUND_SECONDARY": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_SECONDARY_ALT": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_TERTIARY": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_ACCENT": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_FLOATING": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_NESTED_FLOATING": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#FFFF00", "#FFFF00"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#FFFF00", "#FFFF00"],
-        "INTERACTIVE_MUTED": ["#FFFF00", "#FFFF00"],
-        "TEXT_LINK": ["#FFFF00", "#FFFF00"]
+        "KEYBOARD": ["#FF0000", "#FF0000"],
+        "BACKGROUND_PRIMARY": ["#FFFF00", "#FFFF00"],
+        "BACKGROUND_SECONDARY": ["#FF0000", "#FF0000"],
+        "BACKGROUND_SECONDARY_ALT": ["#FF0000", "#FF0000"],
+        "BACKGROUND_TERTIARY": ["#FF0000", "#FF0000"],
+        "BACKGROUND_ACCENT": ["#FF0000", "#FF0000"],
+        "BACKGROUND_FLOATING": ["#FF0000", "#FF0000"],
+        "BACKGROUND_NESTED_FLOATING": ["#FF0000", "#FF0000"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#FF0000", "#FF0000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#FF0000", "#FF0000"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#FF0000", "#FF0000"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#FF0000", "#FF0000"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#FF0000", "#FF0000"],
+        "INTERACTIVE_MUTED": ["#FF0000", "#FF0000"],
+        "TEXT_LINK": ["#FF0000", "#FF0000"]
     },
     "colours": {
-        "PRIMARY_DARK": "#FFFF00",
-        "PRIMARY_DARK_100": "#FF0000",
-        "PRIMARY_DARK_600": "#FFFF00",
-        "PRIMARY_DARK_630": "#FFFF00",
-        "PRIMARY_DARK_700": "#FFFF00",
-        "PRIMARY_DARK_800": "#FF0000",
-        "BRAND_NEW": "#FFFF00",
-        "WHITE": "#FFFF00"
+        "PRIMARY_DARK": "#FF0000",
+        "PRIMARY_DARK_100": "#FFFF00",
+        "PRIMARY_DARK_600": "#FF0000",
+        "PRIMARY_DARK_630": "#FF0000",
+        "PRIMARY_DARK_700": "#FF0000",
+        "PRIMARY_DARK_800": "#FFFF00",
+        "BRAND_NEW": "#FF0000",
+        "WHITE": "#FF0000"
     },
     "unsafe_colors": {
-        "CHAT_GREY": "#FFFF00"
+        "CHAT_GREY": "#FF0000"
     }
 }
